@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("🌈Emotion Upgraded Radar🌈")
 
-gender = st.radio("Girl","Boy"),"Are You:"))
+gender = st.radio("Girl","Boy"),"Are You:")
 status = st.selectbox("Cold","Sad","Happy"),"What Do You Feel Now?"))
 
 if st.button("Know Your Shape!")
